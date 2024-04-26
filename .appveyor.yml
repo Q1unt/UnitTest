@@ -6,6 +6,6 @@ bracnhes:
 cache: node_modules
 install:
   - npm unstall
-  build: off
-  test_script:
+build: off
+test_script:
   - npm run lint && npm test
