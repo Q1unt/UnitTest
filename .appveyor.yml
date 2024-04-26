@@ -1,6 +1,6 @@
 image: Ubuntu1804
 stack: node 12
-bracnhes:
+branches:
   only:
     - main
 cache: node_modules
