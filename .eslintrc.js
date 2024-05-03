@@ -8,7 +8,7 @@ module.exports = {
     "overrides": [
         {
             "files": ["**/*/*.test.js"],
-            "pludins": ["jest"],
+            "plugins": ["jest"],
             "extends": ["plugin:jest/recommended"],
             "rules": { "jest/prefer-expect-assertions":  "off" }
         }
