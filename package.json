@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "lint": "echo 'ESLint temporarily disabled'",
+    "lint": "eslint .",
     "build": "npx webpack --mode production",
     "start": "npx webpack --mode development"
   },
