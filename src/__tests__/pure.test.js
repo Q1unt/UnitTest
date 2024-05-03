@@ -1,4 +1,4 @@
-import { pure } from '../Pure.js'
+import { pure } from "../pure";
 
 test("test charecter health", () => {
     let character = {name: 'Маг', health: 90}
