@@ -6,8 +6,8 @@
   "scripts": {
     "lint": "eslint .",
     "test": "jest",
-    "build": "npx webpack --mode production",
-    "start": "npx webpack --mode development"
+    "start": "npx webpack --mode development",
+    "build": "npx webpack --mode production"
   },
   "author": "",
   "license": "ISC",
