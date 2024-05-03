@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
     "lint": "eslint .",
+    "test": "jest",
     "build": "npx webpack --mode production",
     "start": "npx webpack --mode development"
   },
