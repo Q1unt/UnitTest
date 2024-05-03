@@ -1,7 +1,7 @@
 const path = require("path")
 
 module.export = {
-    entry: "./index.js",
+    entry: ".src//index.js",
     output: {
         chunkFormat: 'jsonp',
         filename: "bundle.js",
