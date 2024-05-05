@@ -9,5 +9,4 @@
 
 Убедитесь, что вы обеспечили 100% покрытие тестами.
 
-
 [![Build status](https://ci.appveyor.com/api/projects/status/3oy64iptxlkbklay?svg=true)](https://ci.appveyor.com/project/Q1unt/unittest)
